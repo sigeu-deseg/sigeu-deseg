@@ -1,5 +1,4 @@
-# derdi-dv
-Repositório oficial do DERDI campus Dois Vizinhos
+# sigeu-deseg
 
 Cada pasta dentro do repositório corresponde a um projeto do Eclipse. Seguem requisitos de cada projeto:
 
