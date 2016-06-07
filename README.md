@@ -9,7 +9,7 @@ Installation on Ubuntu 14.04:
 - select * from pg_user;
 - \du
 - create database test1;
-- \conninfo  (show how you're connected)
+- \conninfo  (show how you're connected) 
 - create table nameOfTable ( test serial PRIMARY KEY );
 - \d  (show tables created)
 
