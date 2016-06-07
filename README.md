@@ -1,5 +1,9 @@
 # sigeu-deseg
 
+Installation:
+- Download Eclipse J2EE
+- PostgreSQL
+
 Cada pasta dentro do repositório corresponde a um projeto do Eclipse. Seguem requisitos de cada projeto:
 
 SIGEU:
